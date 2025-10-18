@@ -1,0 +1,13 @@
+fastapi>=0.104.0
+uvicorn>=0.23.2
+langchain-core>=0.1.5
+langchain-openai>=0.0.5
+python-dotenv>=1.0.0
+supabase>=2.0.0
+httpx>=0.24.1
+pydantic>=2.5.0
+oci>=2.150.1
+requests>=2.31.0
+python-multipart>=0.0.6
+pillow>=10.0.0
+psycopg2-binary>=2.9.9
